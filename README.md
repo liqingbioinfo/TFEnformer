@@ -5,8 +5,8 @@ By utilizing transfer learning, this TFEnformer has two advantages:
 1. Since the majority of its weights are transferred from the well-trained Enformer model, TFEnformer automatically takes account of 84% (<100 kb) genome distal regulatory elements such as enhancers, repressors, and insulators. 
 2. TFEnformer is trained on tissue-specific non-transcribed TFs, which grants this model the power to recognize tissue-specific SNPs. 
 
-##Setup
-###Requirements:
+## Setup
+### Requirements:
 - dm-sonnet (2.0.0)
 - kipoiseq (0.5.2)
 - numpy (1.19.5)
