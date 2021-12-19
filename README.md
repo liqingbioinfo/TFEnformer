@@ -15,8 +15,6 @@ By utilizing transfer learning, this TFEnformer has two advantages:
 - tensorflow-hub (0.11.0)
 See requirements.txt.
 
-To run the unit test:
-
 ```
 python3.8 -m venv TFEnformer_venv
 source TFEnformer_venv/bin/activate
